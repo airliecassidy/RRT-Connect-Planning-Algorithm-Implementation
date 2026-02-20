@@ -26,6 +26,8 @@ A successful plan is visualized below:
 
 
 <img width="502" height="496" alt="Screenshot 2026-02-08 at 7 33 58 PM" src="https://github.com/user-attachments/assets/9a7418c8-6bec-4caf-8c34-72c3b1f9b22f" />
+
+
 Figure 1. Bidirectional RRT-Connect exploration in joint space. High node density indicates constrained feasible regions caused by obstacle tiers. The highlighted bridge marks successful greedy tree fusion and path reconstruction in the hardest environment.
 
 # Running the Planner
