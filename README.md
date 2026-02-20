@@ -1,4 +1,4 @@
-# RRT-Connect Motion Planning Implementation
+# RRT-Connect Motion Planning
 
 Bidirectional sampling-based motion planner for high-dimensional configuration spaces, focusing on implementing RRT-Connect with greedy tree extension, and accelerated convergence in constrained environments. 
 
